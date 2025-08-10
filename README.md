@@ -1,9 +1,24 @@
-# MyUnityGame
+# Unity Car Game 🚗💨
 
-## How to run
-1. Clone repo
-2. Open in Unity (2022.x recommended)
-3. Open scene `Assets/Scenes/Main.unity` → Play
+This is a Unity-based car racing game project.  
+It includes multiple scenes/modules:
+- **Car Selector** – choose your car before starting
+- **Racing Scene** – main gameplay
+- **Start Menu** – game start interface
+- **Winner Scene** – victory screen
 
-## Contribution
-Fork → branch → PR
+---
+
+## 📂 Project Structure
+- `Assets/` – all game assets, scripts, prefabs, and scenes
+- `Packages/` – Unity package references
+- `ProjectSettings/` – Unity project settings
+- `.gitignore` – ignores unnecessary Unity temp/cache files
+
+---
+
+## 🛠 How to Open the Project
+1. **Clone the repository**  
+   Using GitHub Desktop or command line:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
